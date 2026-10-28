@@ -16,7 +16,7 @@ Application vulnerabilities often arise when untrusted inputs cross trust bounda
 
 ## Technology
 
-Python 3.10+, Flask, Flask-WTF, SQLite.
+Python 3.10+, Flask (Werkzeug is included), SQLite.
 
 ## Setup and run
 
